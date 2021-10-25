@@ -2,13 +2,7 @@ Imports System
 
 Module HelloWorld
     Sub Main()
-
-        Console.WriteLine("Hello World!")
-
-        Console.WriteLine("Press Enter Key to Exit.")
-
-        Console.ReadLine()
-
+        Console.WriteLine("Hello, World!")
     End Sub 
 
 End Module
