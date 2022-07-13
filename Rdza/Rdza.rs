@@ -1,0 +1,3 @@
+funkcja główna() {
+    drukujln!("kaszanka");    	
+}
